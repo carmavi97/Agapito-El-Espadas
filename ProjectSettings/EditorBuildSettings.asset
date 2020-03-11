@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 59b90b1169529f848b1903bdc66d9480
   - enabled: 1
-    path: Assets/Scenes/Game1.unity
-    guid: c2ea6de84e30ee54681d31f13bd4f4b6
+    path: Assets/Scenes/House.unity
+    guid: 888ee2339aa9031d291570757908281e
+  - enabled: 1
+    path: Assets/Scenes/GreenHill.unity
+    guid: 30bd0366b4f7452eea4b9a47a01df08a
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 0f2ff2937ca6dcf4ab4bd9f51cfbd5ca
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 2a89564bafd6ab34586000ac63f9001d
   m_configObjects: {}

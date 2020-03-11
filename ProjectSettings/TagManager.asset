@@ -15,7 +15,7 @@ TagManager:
   - 
   - Player
   - Enemies
-  - 
+  - Ground
   - 
   - 
   - 
@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 906431537
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 2496213941
+    locked: 0
+  - name: Player
+    uniqueID: 3330196799
     locked: 0

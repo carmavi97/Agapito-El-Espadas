@@ -7,8 +7,10 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame ()
     {
-        System.Threading.Thread.Sleep(1000);
+        SceneManager.LoadScene(1, LoadSceneMode.Additive);
         SceneManager.LoadScene(1);
+        SceneManager.UnloadScene(0);
+        SceneManager.UnloadScene(3);
     }
 
     public void QuitGame()
